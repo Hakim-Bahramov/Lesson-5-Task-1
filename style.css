@@ -1,0 +1,37 @@
+.form {
+	font-family: 'Inconsolata', monospace;
+	width: 450px;
+	height: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+}
+p, h1 {
+	text-align: center;
+}
+input {
+	width: 20rem;
+	height: 3.5rem;
+	border: 1spx solid #e6e6e6;
+	padding-left: 1rem;
+}
+h1 {
+	color: #737373;
+	margin: 30px;
+}
+button {
+	width: 21.5rem;
+	height: 3.5rem;
+	margin-top: 5px;
+	margin-bottom: 40px;
+	background-color: #3377ff;
+	color: #e6e6e6;
+	border-color: #3377ff;
+}
+.text {
+	color: #b3b3b3;
+}
+a {
+	text-decoration: none;
+	color: #3377ff;
+}
